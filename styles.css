@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("images/number.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container {
+    width: 50%;
+    margin: 10px auto 0;
+    background:white;
+    opacity: .9;
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 20px;
+    padding-bottom: 20px;
+
+    }
+
+#add-btn {
+    background: red;
+}
+
+#save-btn {
+    background: green;    
+}
+
+#reset-el {
+    color: white;
+    background: black;
+}
+
+.btn {
+    color: white;
+    padding: 10px 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
