@@ -39,3 +39,7 @@ body {
     border: none;
     border-radius: 10px;
 }
+
+img {
+    height: 100vh;
+}
